@@ -4,9 +4,9 @@ Repo for the Klipper firmware config files for my Prusa MK3S+ based printer with
 
 The current relevant differences between my printer and a stock MK3S+:
 
-  * Frame: Bear Upgrade 2.1
-  * X Carriage: BearExxa
-  * Extruder: BearExxa with "Bowtie" 38:12 reduction pulleybox and Lin Engineering 417-09-18 stepper
+  * Frame: [Bear Upgrade 2.1](https://github.com/gregsaun/prusa_i3_bear_upgrade)
+  * X Carriage: [BearExxa](https://github.com/gregsaun/bear_extruder_and_x_axis)
+  * Extruder: BearExxa with [Bowtie 38:12 reduction pulleybox](https://www.prusaprinters.org/prints/61260-bowtie-belt-nema17-extruder-pulleybox-gearbox), [Lin Engineering 417-09-18 stepper](https://www.linengineering.com/products/stepper-motors/hybrid-stepper-motors/417-series/417-09-18), and [PT100 RTD with E3D amp board](https://e3d-online.com/products/v6-pt100-upgrade-kit)
 
 
 
