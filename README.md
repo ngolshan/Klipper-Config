@@ -14,7 +14,7 @@ Repo for the Klipper firmware config files for my Prusa MK3S+ based printer with
 
 ## Adapting this config to your printer
 
-NOTE: I do not guarantee this is a complete list, nor would I call this a reliable set of "instructions". I suggest reading through all .cfg files to understand what they do before using them.
+**NOTE:** I do not guarantee this is a complete list, nor would I call this a reliable set of "instructions". I suggest reading through all .cfg files to understand what they do before using them.
 
 My advice for using this config on your own printer would be as follows:
 
