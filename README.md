@@ -1,5 +1,7 @@
 # Klipper Config
 
+NOTE: THIS README IS OUT OF DATE
+
 Repo for the Klipper firmware config files for my Prusa MK3S+ based printer with Einsy Rambo MCU board.
 
 The current relevant differences between my printer and a stock MK3S+:
